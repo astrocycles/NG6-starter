@@ -1,5 +1,13 @@
 # Ng6starter
 
+This is a starter Kit for Angular 6.08 :
+- Bootstrap 4.1.1 (local)
+- PWA
+- Animate.css (local)
+- Fontawesome V5.0.13 (CDN)
+- Jquerry (local - angular.json)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
 ## Development server
