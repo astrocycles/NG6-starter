@@ -1,6 +1,6 @@
-# Ng6starter
+# Ng8 starter
 
-This is a starter Kit for Angular 6ish - see commit date :
+This is a starter Kit for Angular V8 - see commit date :
 - Bootstrap 4.1.1 (local)
 - PWA
 - Animate.css (local)
